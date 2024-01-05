@@ -27,8 +27,8 @@ app.py
   - I made some other format adjustments towards the buttons, texts, and the window. Eventually, I imported the functions that I had created in the functions.py file to connect the GUI with the built-in model. Voila the GUI was finished
 
 ## How does the GUI work?
-To see how the GUI looks like and how it works, please click the link below: 
-  - 
+  To see how the GUI looks like and how it works, please click the link below: 
+    https://www.youtube.com/watch?v=A46wngBzwe8
 
 ## Some drawbacks of this project
 - Instead of using SVM model to detect spam messages, you can try some deep learning models like LSTM, BERT,... for comparison and better predicted results.
